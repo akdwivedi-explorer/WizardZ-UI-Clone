@@ -86,6 +86,11 @@ wizardz-clone/
 <hr>
 <p>By following this guide, you'll create a mesmerizing UI clone of the WizardZ website that looks great and performs smoothly across all devices. Have fun, and let your creativity shine! 🌟✨🧙‍♂️</p>
 
+![Landing Page Design](https://github.com/akdwivedi-explorer/WizardZ-UI-Clone/assets/148251314/c626ea11-00b7-4b1b-8a04-b56f28153e80)
+
+
+https://github.com/akdwivedi-explorer/WizardZ-UI-Clone/assets/148251314/68afe7f2-5b4b-42b1-880c-e58c5176f7f1
+
 
 
 
